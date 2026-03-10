@@ -32,7 +32,7 @@ assets/architecture.png
 
 Then it will render below:
 
-![HR RAG Agent Architecture](assets/architecture.png)
+![HR RAG Agent Architecture](architecture.png)
 
 ---
 
