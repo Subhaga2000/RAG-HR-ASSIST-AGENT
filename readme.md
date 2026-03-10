@@ -119,7 +119,7 @@ Python 3.11
 ## 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/Subhaga2000/hr-rag-ai-agent.git
+https://github.com/Subhaga2000/RAG-HR-ASSIST-AGENT.git
 cd hr-rag-ai-agent
 ```
 
